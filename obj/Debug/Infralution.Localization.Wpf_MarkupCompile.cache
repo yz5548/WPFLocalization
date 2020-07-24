@@ -4,7 +4,7 @@
 library
 C#
 .cs
-K:\Source\Infralution.Localization.Wpf\obj\Debug\
+C:\Users\yang\source\WPFLocalization\obj\Debug\
 Infralution.Localization.Wpf
 none
 false
@@ -13,6 +13,8 @@ DEBUG;TRACE
 12095902478
 
 10-1131107839
-1136683708
+12491436559
 CultureSelectWindow.xaml;
+
+True
 
